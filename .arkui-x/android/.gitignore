@@ -1,0 +1,8 @@
+/.gradle
+build/
+/app/src/main/assets/arkui-x
+/app/libs/arkui_android_adapter.jar
+/app/libs/arm64-v8a/libarkui_android.so
+/app/libs/armeabi-v7a/libarkui_android.so
+/app/libs/arm64-v8a/libhilog.so
+/app/libs/armeabi-v7a/libhilog.so
